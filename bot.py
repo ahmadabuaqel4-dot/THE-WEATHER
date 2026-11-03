@@ -28,7 +28,7 @@ t.start()
 # -------------------------------------------------------------
 
 # التوكين الخاص بك (استبدله إذا غيرته)
-TELEGRAM_TOKEN = "9253097178:AAHaYPsuirhXZ5nAR1kjvPDtX95-MPHDHVU"
+TELEGRAM_TOKEN = "9253097178:AAHAyPSuirhXZ5nAR1kjvPDtX95-MPHDHVU"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
